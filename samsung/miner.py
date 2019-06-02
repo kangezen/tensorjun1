@@ -25,3 +25,4 @@ class Samsung:
     def change_token(texts):
         tokens = word_tokenize(texts)
         print(tokens[:7])
+        print(tokens[:7])
